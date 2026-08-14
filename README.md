@@ -11,9 +11,8 @@ Stack:
 
 Download:
 1. Clone repo:
-```bash
 git clone <URL_ТВОЕГО_РЕПОЗИТОРИЯ>
-cd weather_api
+cd weather_api 
 
 2. Create a virtual environment:
 python -m venv venv
