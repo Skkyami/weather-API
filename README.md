@@ -55,3 +55,5 @@ JWT Authentication
 Rate limiting (5 requests/min for anonymous users, 20 for logged-in users)
 Error handling (city not specified, city not found)
 Automatic city detection by name
+
+https://roadmap.sh/projects/weather-api-wrapper-service
